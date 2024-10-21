@@ -1,4 +1,4 @@
-# 手写数字识别
+# 手写数字识别 (Handwriting Numerals Recognition)
 
 ## 项目概述
 
